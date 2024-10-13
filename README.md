@@ -15,3 +15,6 @@ This is a simple video streaming web application built using Node.js, Express, a
 1. Clone the repository:
    ```bash
    git clone https://github.com/soumyatus/Video-Streaming-Website.git
+
+## Website link
+   [Demo Link](https://video-streaming-microservice.onrender.com/video/v1.mp4)
